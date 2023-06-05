@@ -256,7 +256,8 @@ console.log(error);
 现在可以使用ng serve指令启动项目并在浏览器中测试上传文件、修改文件内容和下载文件的操作了。
 
 
-![输入图片说明](src/environments/image.png)
+![image](https://github.com/GrapeCityXA/Angular-SpreadJS/assets/18186858/96eb9403-767a-4ce3-95da-15a551721048)
+
 
 **代码地址**：
 
