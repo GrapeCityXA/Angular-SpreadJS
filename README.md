@@ -267,6 +267,8 @@ console.log(error);
 
 <https://github.com/GrapeCityXA/Angular-SpreadJS> ([Github](https://github.com/GrapeCityXA/Angular-SpreadJS))
 
+[ **更多技术资料请点击这里** ](https://demo.grapecity.com.cn/spreadjs/SpreadJSTutorial/#/samples)
+
 **扩展链接：**
 
 [前端框架之争丨除了Vue、Angular和React还有谁与之争锋](https://www.grapecity.com.cn/blogs/gc-front-end-framework-debate)
