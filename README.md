@@ -1,5 +1,5 @@
 ### 看看Angular有啥新玩法！手把手教你在Angular15中集成报表插件
-[ **更多技术资料** ](https://demo.grapecity.com.cn/spreadjs/SpreadJSTutorial/#/samples)
+[ **更多技术资料请点击这里** ](https://demo.grapecity.com.cn/spreadjs/SpreadJSTutorial/#/samples)
 
 摘要：本文由葡萄城技术团队于Github原创并首发。转载请注明出处：[葡萄城官网](https://www.grapecity.com.cn/)，葡萄城为开发者提供专业的开发工具、解决方案和服务，赋能开发者。
 
